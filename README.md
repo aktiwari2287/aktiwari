@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Golang**
 
-- 💬 Ask me about **Microservies, Angular, Java, JavaScript**
+- 💬 Ask me about **Microservies, Angular, Java, JavaScript, AWS**
 
 - 📫 How to reach me **anandkti2287@gmail.com**
 
