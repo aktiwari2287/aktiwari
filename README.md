@@ -18,3 +18,5 @@
 <p align="center">
 <a href="https://fb.com/anandkumartiwari" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="anandkumartiwari" height="30" width="30" /></a>
 </p>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-lang/?username=aktiwari&theme=<THEME_NAME>" />
