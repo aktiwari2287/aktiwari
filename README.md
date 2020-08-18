@@ -15,8 +15,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aktiwari2287&show_icons=true" alt="aktiwari" /></p>
 
-![Interested in](https://img.shields.io/badge/CODE-RUST-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-
 <p align="center">
 <a href="https://fb.com/akumartiwari" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="akumartiwari" height="30" width="30" /></a>
 </p>
